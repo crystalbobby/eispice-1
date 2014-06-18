@@ -1,4 +1,4 @@
-# Source Code Diectories
+# Source Code Directories
 SIM_DIR = libs/simulator
 SPARSE_DIR = libs/superlu
 BLAS_DIR = libs/netlib/blas
